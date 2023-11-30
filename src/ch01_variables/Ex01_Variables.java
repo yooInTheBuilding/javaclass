@@ -9,7 +9,8 @@ public class Ex01_Variables {
 		double height = 182.7;
 		String adress = "논현동";
 		String mobile = "010-7617-4361";
-		System.out.println(name + "\n" + age + "\n" + height + "\n" + adress + "\n" + mobile);
+		System.out.println(name + "\n" + age + "\n" + height + "\n" + adress + "\n" + mobile);	
+		System.out.println(10.0/3);
 	}
 
 }
